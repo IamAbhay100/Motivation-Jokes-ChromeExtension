@@ -1,4 +1,5 @@
 # Motivation-Jokes-ChromeExtension
+Created a chrome Extension using two different API, Html, Css and Javascript .
 This is chrome extension is made for those people who are tired to work and they want some motivation or jokes for refreshment .
 By the following steps you can use this chrome extension -
 
